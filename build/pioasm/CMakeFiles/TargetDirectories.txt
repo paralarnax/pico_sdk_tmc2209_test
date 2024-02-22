@@ -1,0 +1,3 @@
+/home/prlx/pico/pico-projects/TMC2209/build/pioasm/CMakeFiles/pioasm.dir
+/home/prlx/pico/pico-projects/TMC2209/build/pioasm/CMakeFiles/edit_cache.dir
+/home/prlx/pico/pico-projects/TMC2209/build/pioasm/CMakeFiles/rebuild_cache.dir
